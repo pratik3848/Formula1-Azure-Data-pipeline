@@ -1,4 +1,4 @@
-# Formula1-Azure-Data-pipeline
+# Formula1 Race Analytics Pipeline on Azure 
 Formula1 Data pipeline using Azure and Databricks
 
 ![image](https://user-images.githubusercontent.com/41427089/230989132-db8e23e8-3aea-4e45-bf38-7a26a8e28142.png)
