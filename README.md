@@ -3,7 +3,7 @@ Formula1 Data pipeline using Azure and Databricks
 
 ![image](https://user-images.githubusercontent.com/41427089/230989132-db8e23e8-3aea-4e45-bf38-7a26a8e28142.png)
 
-# Pipeline Parts
+# Pipeline Tech Stack
 ## Source: Ergast API
 ## Data Loading Pattern - (Incremental + Full load)
 ## Storage: Azure Data Lake Storage Gen2
