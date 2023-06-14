@@ -40,8 +40,6 @@ An End To End Formula1 Analytics Pipeline on Azure
 
  - Pipeline automated using Azure Data Factory
  - Pulls Data from API, transforms and publishes to PowerBI dashboard
- ![image](https://user-images.githubusercontent.com/41427089/232262943-021ffb63-4d9d-49b6-ae6a-a57929c10ec9.png)
-![image](https://user-images.githubusercontent.com/41427089/232262972-9db66a94-992e-4a00-83e0-d8a9dd8297bd.png)
 
-
+## Visualization
 ![image](https://user-images.githubusercontent.com/41427089/232262824-998aa562-5b6e-4402-8a17-31edc470ba17.png)
